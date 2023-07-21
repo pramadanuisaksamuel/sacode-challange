@@ -1,2 +1,3 @@
 # sacode-day-10
-prama tes github
+prama challange sacode
+https://pramadanuisaksamuel.github.io/sacode-challange/
